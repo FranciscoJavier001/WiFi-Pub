@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="min-h-screen bg-white text-black font-sans flex flex-col items-center justify-center p-8">
       <header className="text-center mb-20">
-        <h1 className="text-5xl font-bold mb-4">🛜 Wi-Fi 7 🛜<br />Una realidad </h1>
-        <p className="text-xl">Ya no hay margen para errores.</p>
-        <p className="text-lg mt-4 text-gray-600">Bienvenido a una red diseñada por ingenieros. <br /><br />Estable, rápida y sin pretextos.</p>
+        <h1 className="text-5xl font-bold mb-4">🛜 Wi-Fi 7 🛜<br />Una Realidad </h1>
+        <p className="text-xl">Ya no hay Margen para Errores.</p>
+        <p className="text-lg mt-4 text-gray-600">Bienvenido a una Red Diseñada por Ingenieros. <br /><br />Estable, Rápida y Sin Pretextos.</p>
       </header>
       <section className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center mb-20">
         <div>
@@ -23,7 +23,7 @@ function App() {
         “Diseño de Red Profesional para Areas Industriales.”
       </div>
       <footer className="mt-20 text-sm text-gray-500"> <br />
-        Conectividad sin interrupciones.
+        Conectividad Sin Interrupciones.
       </footer>
     </div>
   )
