@@ -20,7 +20,7 @@ function App() {
         </div>
       </section>
       <div className="text-center text-2xl font-medium mb-16">
-        “Diseño de Red Profesional para Areas Industriales.”
+        “Diseño de Red para Areas Industriales.”
       </div>
       <footer className="mt-20 text-sm text-gray-500"> <br />
         Conectividad Sin Interrupciones.
