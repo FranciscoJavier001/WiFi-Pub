@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="min-h-screen bg-white text-black font-sans flex flex-col items-center justify-center p-8">
       <header className="text-center mb-20">
-        <h1 className="text-5xl font-bold mb-4">🛜 Wi-Fi 7 🛜<br />Una Realidad </h1>
+        <h1 className="text-5xl font-bold mb-4">🛜 Wi-Fi 🛜<br />Agropecuario</h1>
         <p className="text-xl">Ya no hay Margen para Errores.</p>
         <p className="text-lg mt-4 text-gray-600">Bienvenido a una Red Diseñada por Ingenieros. <br /><br />Estable, Rápida y Sin Pretextos.</p>
       </header>
